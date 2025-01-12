@@ -1,0 +1,7 @@
+include/glm/build
+
+Advanced-OpenGL/.vs
+Advanced-OpenGL/Debug
+Advanced-OpenGL/x64/Debug/*.ilk
+Advanced-OpenGL/x64/Debug/*.pdb
+Advanced-OpenGL/Depth testing/x64/Debug
