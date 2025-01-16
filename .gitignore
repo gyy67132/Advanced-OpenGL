@@ -7,3 +7,11 @@ Advanced-OpenGL/x64/Debug/*.pdb
 Advanced-OpenGL/Depth testing/x64/Debug
 
 Advanced-OpenGL/Stencil testing/x64/Debug
+
+Advanced-OpenGL/Blending/x64/Debug
+
+Advanced-OpenGL/Framebuffers/x64/Debug
+
+Advanced-OpenGL/Framebuffers_2/x64/Debug
+
+Advanced-OpenGL/Cubemaps/x64/Debug
